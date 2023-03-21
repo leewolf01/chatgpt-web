@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/869413421/chatgpt-web/bootstarp"
-	"github.com/869413421/chatgpt-web/config"
+	"github.com/leewolf01/chatgpt-web/bootstarp"
+	"github.com/leewolf01/chatgpt-web/config"
 	"github.com/alecthomas/kong"
 )
 
